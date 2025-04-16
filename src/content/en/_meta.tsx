@@ -20,7 +20,7 @@ export default {
     },
   },
   docs: {
-    title: '📦 Some Examples',
+    title: 'docs',
     type: 'page',
   },
   upgrade: {
