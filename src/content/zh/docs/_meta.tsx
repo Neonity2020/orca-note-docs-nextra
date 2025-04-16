@@ -1,6 +1,6 @@
 import type { MetaRecord } from 'nextra'
 
 export default {
-  docs: '虎鲸笔记文档',
+  'quick-start': '快速开始',
   // ...
 } satisfies MetaRecord
